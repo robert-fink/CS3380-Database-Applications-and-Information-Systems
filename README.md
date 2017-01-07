@@ -1,1 +1,1 @@
-# CS3380-Database-Applications-and-Information-Systems---labs
+# CS3380-Database-Applications-and-Information-Systems-labs-and-final-project
