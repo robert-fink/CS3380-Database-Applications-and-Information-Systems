@@ -1,0 +1,11 @@
+tail_num	brand	model	owner_license_num	num_engines
+'1', 'Boeing', '737 MAX', '21', '2'
+'2', 'Boeing', '747-8', '1', '4'
+insert into plane values('3', 'Boeing', '747-8', '11', '4');
+insert into plane values('4', 'Boeing', '777x', '91', '2');
+insert into plane values('5', 'Boeing', '787', '81', '2');
+insert into plane values('6', 'Airbus', 'A318', '71', '2');
+insert into plane values('7', 'Airbus', 'A380', '61', '4');
+insert into plane values('8', 'Airbus', 'A380', '31', '4');
+insert into plane values('9', 'Airbus', 'A320', '41', '2');
+insert into plane values('10', 'Airbus', 'A321', '51', '2');
